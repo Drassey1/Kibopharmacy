@@ -21,7 +21,7 @@
 
 body {
     min-height: 100vh;
-    background-image: url(./assert/galary1.jpg);
+    background-image: url(galary1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
