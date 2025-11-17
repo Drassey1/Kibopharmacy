@@ -224,7 +224,7 @@ function loadMedicineCategory(categoryName) {
 function generateProductCards(category) {
   const map = {
     "Pain Relief": [
-      { name: "Paracetamol 500mg", price: 1000, image: "./assert/paracetamol.jpg" },
+      { name: "Paracetamol 500mg", price: 1000, image: "paracetamol.jpg" },
       { name: "Ibuprofen 400mg", price: 1200, image: "./assert/med2.jpg" },
       { name: "Diclofenac 50mg", price: 1500, image: "./assert/med3.jpg" },
       { name: "Tramadol 50mg", price: 1800, image: "./assert/med4.jpg" },
